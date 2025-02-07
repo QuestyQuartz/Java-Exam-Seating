@@ -1,6 +1,4 @@
 package Model;
-
- 
 import java.util.*;
 import java.sql.*;
 import com.*;
